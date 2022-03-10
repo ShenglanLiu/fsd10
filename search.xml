@@ -4,6 +4,7 @@
     <title>FSD10数据集已发布！！！</title>
     <url>/liusl.github.io/2022/03/11/FSD10%E6%95%B0%E6%8D%AE%E9%9B%86%E5%B7%B2%E5%8F%91%E5%B8%83%EF%BC%81%EF%BC%81%EF%BC%81/</url>
     <content><![CDATA[<h1 id="数据集FSD10"><a href="#数据集FSD10" class="headerlink" title="数据集FSD10:"></a>数据集FSD10:</h1><p>FSD-10: A Dataset for Competitive Sports Content Analysis</p>
+<h1 id="论文："><a href="#论文：" class="headerlink" title="论文："></a>论文：</h1><p>Liu, S., Liu, X., Huang, G., Qiao, H., Hu, L., Jiang, D., … &amp; Guo, G. (2020). FSD-10: A fine-grained classification dataset for figure skating. <em>Neurocomputing</em>, <em>413</em>, 360-367.</p>
 <h1 id="数据集意义：凸显人体运动在视频识别中的重要性"><a href="#数据集意义：凸显人体运动在视频识别中的重要性" class="headerlink" title="数据集意义：凸显人体运动在视频识别中的重要性"></a>数据集意义：凸显人体运动在视频识别中的重要性</h1><p>尽管目前主流的视频研究数据集很多，规模也很大，如视频识别：Kinetics, Moments in Time, UCF101等，视频分割：Breakfast, Epic Kitchens, Salads50等。但以上数据集都缺乏人体运动的特性（Kinetics等有部分运动特性，但不够专业，类别也很有限）。像UCF101选取子集，把人裁剪掉，留下场景，准确率下降不多[1]。这说明该视频并不太关注人的运动，也无法体现视频分析的特性。</p>
 <p>我们发布的数据集Figure Skating Dataset (FSD-10)旨在通过花样滑冰研究人体的运动。在花样滑冰运动中，人体姿态和运动轨迹相较于其他运动呈现复杂性强、类别多的特点，对于研究视频中的人体动态是非常好的素材。</p>
 <p>在花样滑冰评分中，专家对所有动作类型的评判正确率大于99%。然而，在数据集选取10类上测试，深度的视频学习模型只能达到80%-90%的正确率。一个关注运动数据集的提出对于视频模型的提出至关重要，且对评估当前视频学习模型是十分有必要与紧迫的，所以这次数据集的发布有助于让更多的人们认识到人体运动在视频识别中的重要地位。</p>
@@ -58,7 +59,7 @@
 
 
 
-<h1 id="数据集下载连接："><a href="#数据集下载连接：" class="headerlink" title="数据集下载连接："></a>数据集下载连接：</h1><p>链接：<a href="https://pan.baidu.com/s/1AtfzYN7F9fRIbfIucyGv9Q">FSD10数据集下载链接</a><br>提取码：a8ln</p>
+<h1 id="数据集下载链接："><a href="#数据集下载链接：" class="headerlink" title="数据集下载链接："></a>数据集下载链接：</h1><p>链接：<a href="https://pan.baidu.com/s/1AtfzYN7F9fRIbfIucyGv9Q">FSD10数据集下载链接</a><br>提取码：a8ln</p>
 ]]></content>
       <tags>
         <tag>数据集</tag>
